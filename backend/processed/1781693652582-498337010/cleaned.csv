@@ -1,0 +1,5 @@
+"Transaction ID","Amount","Date","Email","Phone","Country","Payment Mode"
+"TX1001",450.5,"2026-06-01","user1@example.com","+91 98765 43210","India","UPI"
+"TX1002",1200,"2026-06-02","user2@example.sg","+65 8765 4321","Singapore","Credit Card"
+"TX1003",75.25,"2026/06/03","user3@gmail.com","9988776655","India","Wallet"
+"TX1005",150,"2026-15-40","user5@example.com","9876543210","India","Net Banking"
